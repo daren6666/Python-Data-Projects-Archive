@@ -4,15 +4,17 @@ This repository is a collection of Python projects developed during my undergrad
 
 ## 📁 Categories
 
-### 🕸️ Web Scraping & GUI
-- **Hahow Course Scraper**: Scrapes course pricing and enrollment data from the Hahow platform.
-- **PTT News Analysis**: Fetches headlines from PTT and news outlets for comparative analysis.
-- **PTT Crawler GUI**: A desktop application built with **Tkinter** for easy web scraping.
+## 📁 Repository Structure
 
-### 🤖 Machine Learning & Math
-- **Intro to ML Concepts**: Foundational machine learning algorithms and math exercises.
-- **Numpy & Matplotlib Basics**: Exploratory data analysis (EDA) and mathematical modeling.
-- **Casino Bandit Simulation**: Early-stage simulation of bandit reward systems.
+### 🕸️ [Web_Scraping/](./Web_Scraping/)
+* **Hahow Course Scraper**: Data extraction from Hahow platform.
+* **PTT News Analysis**: Sentiment and headline tracking from PTT.
+* **PTT Crawler GUI**: Desktop GUI application built with Tkinter.
+
+### 🤖 [Machine_Learning_Basics/](./Machine_Learning_Basics/)
+* **Intro to ML Concepts**: Foundational algorithms and mathematics.
+* **Numpy & Matplotlib Basics**: Exploratory Data Analysis (EDA) practice.
+* **Casino Bandit Simulation**: Early implementation of reinforcement learning concepts.
 
 ## 🛠️ Skills Demonstrated
 - **Libraries**: Requests, BeautifulSoup, NumPy, Matplotlib, Tkinter.
